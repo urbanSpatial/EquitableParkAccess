@@ -9,9 +9,9 @@
 
 This exercise was inspired by Dr. Eugenia South and Diana Regas' April, 2021 [editorial](https://www.nbcnews.com/think/opinion/covid-s-park-resurgence-shows-how-biden-stimulus-money-can-ncna1265076) on park access equity in American cities. They write, in part:
 
-|           "...According to data collected by The Trust for Public Land, more than 100 million Americans do not have a park 
-|            within a 10-minute walk of home, and studies have shown that parks serving primarily people of color are half the 
-|            size and serve five times more people than parks in predominantly white neighborhoods."
+      "...According to data collected by The Trust for Public Land, more than 100 million Americans do not have a park 
+      within a 10-minute walk of home, and studies have shown that parks serving primarily people of color are half the 
+      size and serve five times more people than parks in predominantly white neighborhoods."
 <br>         
 
 Using (mostly) simple R code from my new book, [Public Policy Analytics: Code & Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html) (CRC Press), this markdown serves as a beginner's framework for exploring the spatial pattern of park access equity for any community nationally (so long as they have open park data). Here, examples are given for Philadelphia. 
