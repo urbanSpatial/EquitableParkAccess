@@ -1,14 +1,7 @@
----
-title: "Does your city have equitable park access"
-author: "Ken Steif, Ph.D - @KenSteif"
-date: "Spring, 2021"
-output:  
-  html_document:
-   keep_md: true
-   toc: true
-   toc_float: true
-   code_folding: hide
----
+# Does your city have equitable park access
+<h6> Ken Steif, Ph.D - @KenSteif </h6>
+<h6> Spring, 2021 </h6>
+
 
 
 
