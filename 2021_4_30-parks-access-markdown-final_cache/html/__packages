@@ -1,0 +1,17 @@
+base
+sf
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+tidycensus
+sp
+spData
+spdep
+FNN
+gridExtra
