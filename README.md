@@ -1,4 +1,4 @@
-# Does your city have equitable park access
+# Does your city have equitable park access? A reproducible analysis
 <h6> Ken Steif, Ph.D - @KenSteif </h6>
 <h6> Spring, 2021 </h6>
 
